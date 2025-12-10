@@ -213,14 +213,14 @@ ISC
 
 **Vladmeer**
 
-- Telegram: [@vladmeer67](https://t.me/vladmeer67)
-- Twitter/X: [@vladmeer67](https://x.com/vladmeer67)
+- Telegram: [@josephlopezh888](https://t.me/josephlopezh888)
+- Twitter/X: [@josephlopezh888](https://x.com/josephlopezh888)
 
 ## Support
 
 For questions, issues, or support, please contact:
-- Telegram: [@vladmeer67](https://t.me/vladmeer67)
-- Open an issue on [GitHub](https://github.com/vladmeer/aster-trading-bot/issues)
+- Telegram: [@josephlopezh888](https://t.me/josephlopezh888)
+- Open an issue on [GitHub](https://github.com/josephlopezh888/aster-trading-bot/issues)
 
 ## Disclaimer
 
